@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamzakhvlid
-- 👀 I’m interested in app development
-- 🌱 I’m currently doing software engineering 
-- 💞️ I’m looking to collaborate on AI based applications
+- I’m interested in back-end app development
+- I’m currently doing software engineering 
+- Looking to collaborate on AI based applications
 - 📫 How to reach me: hamzakhalid10002000@gmail.com
 
 <!---
